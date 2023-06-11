@@ -1,0 +1,1 @@
+import{a5 as e,q as s,G as t,y as _}from"./index-d19cf51d.js";const c={},n={class:"cl"},o=_("h2",null,"欢迎来到问卷管理系统",-1),a=[o];function r(i,l){return s(),t("div",n,a)}const f=e(c,[["render",r]]);export{f as default};
